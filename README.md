@@ -1,3 +1,3 @@
-Inicio do projeto a criação de um site com o professor Luiz Otávio
+## Landing Page com o Prof. Luiz Otavio Miranda
 
 O projeto é um site amostrativo, todo e qualquer assunto abordado é fora de contexto
